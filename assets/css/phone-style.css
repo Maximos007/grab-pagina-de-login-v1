@@ -1,0 +1,23 @@
+@media (max-width: 768px) {
+  html {
+    font-size: 45%;
+  }
+
+  aside {
+    display: none;
+  }
+
+  section {
+    width: 100vw;
+  }
+
+  .user-input .input {
+    width: 80vw;
+    height: 50px;
+  }
+
+  .user-input input {
+    height: 50px;
+    width: 80vw;
+  }
+}
